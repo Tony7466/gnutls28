@@ -27,3 +27,4 @@
 49-Fix-double-free-during-gnutls_pkcs7_verify.patch
 50-wrap_nettle_hash_fast-avoid-calling-_update-with-zer.patch
 CVE-2023-0361.patch
+CVE-2023-5981.patch
